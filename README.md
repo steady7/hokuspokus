@@ -1,11 +1,4 @@
-﻿<style type="text/css" rel="stylesheet">
-* {    
-    background-color: #505050;
-    color: #f0f0f0;
-    font-size: 115%;
-}
-</style>
-###Rozhovor o LAN
+﻿###Rozhovor o LAN
 ```diff
 - Prvně si řekneme něco o LAN.. hmm..
 - Tak začenem tím, že jeho rozsah může být místnost, podlaží, budova... no prostě to je síť která zabírá menší plochu.
