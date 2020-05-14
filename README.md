@@ -1,4 +1,4 @@
-﻿###Rozhovor o LAN
+﻿### Rozhovor o LAN
 ```diff
 - Prvně si řekneme něco o LAN.. hmm..
 - Tak začenem tím, že jeho rozsah může být místnost, podlaží, budova... no prostě to je síť která zabírá menší plochu.
@@ -23,7 +23,7 @@
 + Taky je pravda že někdy u volání dochází k nějakému rušení a hlas druhé osoby zeslábne a skoro ho nejde slyšet..
 -Ano! A protože LAN je na krátkou vzdálenost, tak vznik takové chyby se stává jen zřídka.
 ```
-###Rozhovor o WAN
+### Rozhovor o WAN
 ```diff
 - No dobře, teď tak nějak víš co to ta LAN je.
 - Další na řadě je řeč o WAN!
